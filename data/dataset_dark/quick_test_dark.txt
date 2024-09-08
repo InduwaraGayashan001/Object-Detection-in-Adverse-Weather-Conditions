@@ -1,0 +1,2 @@
+./data/darkimages/street.png
+./data/darkimages/town.png
